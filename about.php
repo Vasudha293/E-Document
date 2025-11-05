@@ -52,7 +52,7 @@ body{
 <nav class="navbar navbar-inverse">
   <div class="container-fluid">
     <div class="navbar-header">
-      <a class="navbar-brand" href="adminlogin.php">Admin</a>
+      <a class="navbar-brand" href="adminlogin.php">Adminn</a>
     </div>
     <ul class="nav navbar-nav">
       <li class="active"><a href="home.php">Home</a></li>
